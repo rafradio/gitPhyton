@@ -1,0 +1,9 @@
+[nitpick.styles]
+include = [
+  "py://nitpick/resources/presets/nitpick",
+]
+
+[nitpick.files.present]
+"CHANGELOG.md" = "A project should have `CHANGELOG.md`"
+"README.md" = "A project should have `README.md`"
+".gitignore" = "A project should have `.gitignore` file"
