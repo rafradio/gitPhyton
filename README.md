@@ -4,7 +4,7 @@
 <br>
 
 Тестовая работа:
-* Один main file - reqHeaders.py
+* main file - reqHeaders.py
 * асинхронное выполнение задачи - asyncio
     > asyncio.create_task() ensure_future()  -  функции<br>
     <br>
