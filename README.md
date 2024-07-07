@@ -6,7 +6,7 @@
 Тестовая работа:
 * main file - reqHeaders.py
 * асинхронное выполнение задачи - asyncio
-    > asyncio.create_task() ensure_future()  -  функции<br>
+    > asyncio.create_task(); ensure_future(); и др.  -  функции asyncio<br>
     <br>
 * скачивание содержимого репозитория - библиотека gitPython
 
